@@ -1,2 +1,2 @@
 # Tertiary-Search-Tree
-Implementation of a tertiary search tree.aaaaaaaaaaaaaaaa
+This project implements a tertiary search tree.
